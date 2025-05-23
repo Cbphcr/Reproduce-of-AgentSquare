@@ -30,4 +30,4 @@ python search_agent_alf.py
 
 - The **ALFWorld** team – for the incredible simulation environment.
 - The authors of **AgentSquare** – for their brilliant ideas and open-source repo, which made this reproduction possible.
-- - **OpenAI GPT** – for being our always-available teammate (and therapist 🧠).
+- **OpenAI GPT** – for being our always-available teammate (and therapist 🧠).
