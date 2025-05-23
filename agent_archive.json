@@ -1,0 +1,168 @@
+[
+    {
+        "planning": "io",
+        "reasoning": "io",
+        "tooluse": null,
+        "memory": "tp",
+        "performance": 0.7
+    },
+    {
+        "planning": "io",
+        "reasoning": "DToT",
+        "tooluse": null,
+        "memory": "tp",
+        "performance": 0.3
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "io",
+        "tooluse": null,
+        "memory": "tp",
+        "performance": 0.3
+    },
+    {
+        "planning": "io",
+        "reasoning": "io",
+        "tooluse": null,
+        "memory": "adaptive",
+        "performance": 0.8
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "DToT",
+        "tooluse": "None",
+        "memory": "adaptive",
+        "performance": 0.3,
+        "predict_performance": 0.9
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "DToT",
+        "tooluse": "None",
+        "memory": "adaptive",
+        "performance": 0.1,
+        "predict_performance": 0.9
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "DToT",
+        "tooluse": "None",
+        "memory": "adaptive",
+        "performance": 0.3,
+        "predict_performance": 0.9
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "DToT",
+        "tooluse": "None",
+        "memory": "adaptive",
+        "performance": 0.2,
+        "predict_performance": 0.9
+    },
+    {
+        "planning": "io",
+        "reasoning": "AToT",
+        "tooluse": null,
+        "memory": "adaptive",
+        "performance": 0.8
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "io",
+        "tooluse": null,
+        "memory": "adaptive",
+        "performance": 0.1
+    },
+    {
+        "planning": "io",
+        "reasoning": "io",
+        "tooluse": null,
+        "memory": "contextual",
+        "performance": 0.9
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "AToT",
+        "tooluse": "None",
+        "memory": "contextual",
+        "performance": 0.1,
+        "predict_performance": 0.95
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "AToT",
+        "tooluse": "None",
+        "memory": "contextual",
+        "performance": 0.0,
+        "predict_performance": 0.95
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "AToT",
+        "tooluse": "None",
+        "memory": "contextual",
+        "performance": 0.3,
+        "predict_performance": 0.95
+    },
+    {
+        "planning": "hierarchical_env_aware",
+        "reasoning": "AToT",
+        "tooluse": "None",
+        "memory": "contextual",
+        "performance": 0.3,
+        "predict_performance": 0.95
+    },
+    {
+        "planning": "io",
+        "reasoning": "FEDR",
+        "tooluse": null,
+        "memory": "contextual",
+        "performance": 0.8
+    },
+    {
+        "planning": "dynamic_hierarchical_env_aware",
+        "reasoning": "io",
+        "tooluse": null,
+        "memory": "contextual",
+        "performance": 0.1
+    },
+    {
+        "planning": "io",
+        "reasoning": "io",
+        "tooluse": null,
+        "memory": "dynamic_feedback",
+        "performance": 0.8
+    },
+    {
+        "planning": "dynamic_hierarchical_env_aware",
+        "reasoning": "FEDR",
+        "tooluse": "None",
+        "memory": "dynamic_feedback",
+        "performance": 0.0,
+        "predict_performance": 0.95
+    },
+    {
+        "planning": "dynamic_hierarchical_env_aware",
+        "reasoning": "FEDR",
+        "tooluse": "None",
+        "memory": "dynamic_feedback",
+        "performance": 0.0,
+        "predict_performance": 0.95
+    },
+    {
+        "planning": "dynamic_hierarchical_env_aware",
+        "reasoning": "FEDR",
+        "tooluse": "None",
+        "memory": "dynamic_feedback",
+        "performance": 0.1,
+        "predict_performance": 0.95
+    },
+    {
+        "planning": "dynamic_hierarchical_env_aware",
+        "reasoning": "FEDR",
+        "tooluse": "None",
+        "memory": "dynamic_feedback",
+        "performance": 0.0,
+        "predict_performance": 0.95
+    }
+]
